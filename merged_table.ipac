@@ -1,11 +1,126 @@
-|            Names|     IDs|SurfaceDensity|VelocityDispersion|Radius|IsSimulated|IsGalactic|                 Timestamp|
-|             char|    char|        double|            double|double|       char|      char|                      char|
-|                 |        | solMass / pc2|            km / s|    pc|           |          |                          |
-|             null|    null|          null|              null|  null|       null|      null|                      null|
- DiederikKruijssen Fiducial         6366.2               15.0   10.0        True       True 2015-05-14 17:56:59.604316 
- DiederikKruijssen    LDens        10995.0               15.0   5.77        True       True 2015-05-14 17:56:59.604316 
- DiederikKruijssen    HDens        3679.88               15.0   17.3        True       True 2015-05-14 17:56:59.604316 
- DiederikKruijssen    LVdis         3183.1                7.5    5.0        True       True 2015-05-14 17:56:59.604316 
- DiederikKruijssen    HVdis         9549.3               22.5   15.0        True       True 2015-05-14 17:56:59.604316 
- DiederikKruijssen     LVir        11060.9               15.0   17.3        True       True 2015-05-14 17:56:59.604316 
- DiederikKruijssen     HVir        3680.94               15.0   5.77        True       True 2015-05-14 17:56:59.604316 
+|            Names|           IDs|SurfaceDensity|VelocityDispersion|   Radius|IsSimulated|IsGalactic|                 Timestamp|
+|             char|          char|        double|            double|   double|       char|      char|                      char|
+|                 |              | solMass / pc2|            km / s|       pc|           |          |                          |
+|             null|          null|          null|              null|     null|       null|      null|                      null|
+|            Names|           IDs|SurfaceDensity|VelocityDispersion|   Radius|IsSimulated|IsGalactic|                 Timestamp|
+|             char|          char|        double|            double|   double|       char|      char|                      char|
+|                 |              | solMass / pc2|            km / s|       pc|           |          |                          |
+|             null|          null|          null|              null|     null|       null|      null|                      null|
+     SteveLongmore          Brick         4504.0               15.1       2.9       False       True 2015-05-14 17:46:20.647402 
+     SteveLongmore        Cloud_d         2362.0               16.3       3.2       False       True 2015-05-14 17:46:20.647402 
+     SteveLongmore        Cloud_e         6189.0               15.5       2.4       False       True 2015-05-14 17:46:20.647402 
+     SteveLongmore        Cloud_f         5809.0               16.5       2.0       False       True 2015-05-14 17:46:20.647402 
+   SaroltaZahorecz    G1.84+16.59        30.1216           0.124432  0.106817       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz    G4.46+16.64        36.4711           0.214601  0.109106       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz    G5.02+19.08        15.8545           0.178534  0.122816       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz    G6.08+20.27        8.35544           0.164107   0.12073       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz    G6.94+5.85a         22.606           0.113612 0.0919495       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz    G6.94+5.85b         22.606           0.250668 0.0919495       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz    G7.14+5.94a        28.7228           0.104595  0.113656       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz    G7.14+5.94b        28.7228           0.243455  0.113656       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz    G8.52+21.84         12.535           0.142466  0.110321       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz    G25.49+6.17        12.7003           0.241651  0.291646       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G27.71-21.03        2.95024          0.0847583  0.403935       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G28.56-0.24a        74.2631           0.259685   4.83189       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G28.56-0.24b        74.2631            1.04776   4.83189       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G28.56-0.24c        74.2631           0.802499   4.83189       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G28.56-0.24d        74.2631            1.20465   4.83189       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz    G28.71+3.88        84.3131           0.203781   0.22845       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G37.52+44.57        0.82165          0.0775449  0.258664       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz    G60.75-1.23         15.294           0.373297  0.954695       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G93.12-10.40        3.99672            0.17673  0.224597       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G93.36-12.07         1.1207          0.0306573  0.154968       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G108.84-0.81         23.772           0.488713   0.19974       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G110.76+19.43        10.1202           0.142466  0.213004       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G111.77+13.78         2.0124           0.153286  0.370542       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G118.25-52.70        1.78651           0.102792  0.319155       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G120.17+3.08        41.7399           0.467073    1.4103       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G120.97+2.66        15.2037           0.281326    0.7265       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G122.72+9.61        8.59993            0.14427  0.382983       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G128.95+4.43a        13.5517            0.33723  0.279436       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G128.95+4.43b        13.5517            0.31559  0.279436       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G129.90+11.62a        5.62073          0.0847583   0.57841       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G129.90+11.62b        5.62073           0.218208   0.57841       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G149.41+3.38        8.33141           0.229028   0.15392       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G149.52-1.23        10.0651           0.405758   0.86143       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G151.45+3.95        50.4118           0.420185  0.149459       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G153.74+35.92        2.07212           0.129843  0.314668       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G154.96-15.18a         5.8587            0.17132  0.109637       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G154.96-15.18b         5.8587           0.173123  0.109637       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G157.12-11.56        19.7306           0.229028  0.121129       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G157.92-8.24        17.0142           0.432809  0.141847       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G158.40-21.86        38.7845           0.218208  0.157237       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G159.36+3.76        5.88493           0.333623   2.90993       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G159.52+3.25        7.74668            0.66364   3.27596       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G159.67-5.72        8.19208            0.35346  0.114577       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G159.66-34.31        7.54297           0.167713  0.356558       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G160.53-19.73        18.8274           0.279522  0.139342       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G164.56-24.48         2.7731            0.31559  0.135004       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G168.72-15.48a        34.0121           0.124432  0.130981       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G168.72-15.48b        34.0121           0.200174  0.130981       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G168.85-14.70        10.9382          0.0793482  0.136038       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G169.83-7.61        11.3078           0.120826  0.132679       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G170.00-16.13a        8.54036            0.17673 0.0792655       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G170.00-16.13b        8.54036           0.158696 0.0792655       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G170.14-16.07        28.6697            0.33723  0.269404       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G170.81-18.34        10.6444           0.140663  0.223948       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G171.00-15.80        40.8022            0.17673  0.206183       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G171.14-17.57a        46.9303          0.0991853  0.220564       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G171.14-17.57b        46.9303           0.146073  0.220564       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G171.49-14.91        68.1673           0.328213  0.200515       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G171.52-10.60        33.2344           0.110005  0.172468       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G171.84-5.22         21.978          0.0865617   0.23185       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G171.80-15.32        18.9171            0.15509   0.12201       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G172.14-9.93        7.56619          0.0757415  0.221391       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G172.15-16.01        20.7341           0.146073  0.207368       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G172.33-18.24a        6.23354           0.223618  0.252442       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G172.33-18.24b        6.23354          0.0847583  0.252442       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G172.82-5.16        7.45172          0.0991853  0.224141       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G173.08-17.90         13.578           0.234438  0.220057       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G173.44-13.34        35.1282           0.238045  0.232741       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G175.33-10.83        3.92178          0.0739381  0.257356       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G175.50-16.80a        29.0654           0.122629  0.214675       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G175.50-16.80b        29.0654           0.110005  0.214675       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G177.15-1.21        13.7886           0.425595  0.154417       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G177.90-20.16a        11.2328           0.147876  0.228004       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G177.90-20.16b        11.2328           0.147876  0.228004       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G177.97-9.72        48.4827           0.108202   0.21563       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G179.15-6.26        7.87812          0.0937752  0.216578       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G181.72-19.36        8.24945            0.17132  0.332716       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G182.19-17.72        13.5879           0.221814  0.243343       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G182.15-17.95         16.203            0.15509  0.262717       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G194.70-16.83        4.89405            0.18214  0.391942       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G194.94-16.74        10.3975           0.257882   0.38381       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G195.09-16.42        16.3415            0.33182  0.355659       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G202.58-8.70         4.0861           0.245258  0.387677       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G203.21-11.20        41.6769           0.288539  0.444194       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G203.57-30.09        12.6446           0.129843   0.19379       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G204.49-11.33        13.9643           0.128039  0.423524       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G207.36-19.82        37.1999           0.385921  0.458071       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G210.68-36.77        6.81301           0.108202  0.160965       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G211.47-19.27a        57.3602           0.387724  0.352711       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G211.47-19.27b        57.3602           0.443629  0.352711       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G211.47-19.27c        57.3602           0.151483  0.352711       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G211.71-12.18        8.36808            0.35346  0.367056       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G212.10-19.15        145.895           0.398545  0.437883       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G213.93-13.60a        15.8451          0.0306573   0.38085       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz G213.93-13.60b        15.8451           0.248865   0.38085       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G214.42-19.90        22.5691           0.212798  0.448177       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G214.68-19.95        27.0996           0.174927  0.397034       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G216.18-15.25        25.0077           0.376904  0.479523       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G216.51-13.87        30.1738           0.384118  0.484343       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G219.26-17.89        25.3184           0.191157   0.41186       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G219.36-7.69        6.71464           0.227224  0.372615       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G219.34-17.65        9.21805           0.209191  0.376702       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz   G226.71-7.46        8.32577           0.357067  0.567585       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G227.70+11.17       0.437696           0.106399  0.266278       False       True 2015-05-14 17:41:33.865058 
+   SaroltaZahorecz  G359.31+17.04        17.2323          0.0991853  0.117293       False       True 2015-05-14 17:41:33.865058 
+     SimonGlover            whole           40.0                2.6       8.0        True       True 2015-05-15 10:31:42.450184 
+     SimonGlover         cobright           70.0                2.6       5.6        True       True 2015-05-15 10:31:42.450184 
+ DiederikKruijssen       Fiducial         6366.2               15.0      10.0        True       True 2015-05-14 17:56:59.604316 
+ DiederikKruijssen          LDens        10995.0               15.0      5.77        True       True 2015-05-14 17:56:59.604316 
+ DiederikKruijssen          HDens        3679.88               15.0      17.3        True       True 2015-05-14 17:56:59.604316 
+ DiederikKruijssen          LVdis         3183.1                7.5       5.0        True       True 2015-05-14 17:56:59.604316 
+ DiederikKruijssen          HVdis         9549.3               22.5      15.0        True       True 2015-05-14 17:56:59.604316 
+ DiederikKruijssen           LVir        11060.9               15.0      17.3        True       True 2015-05-14 17:56:59.604316 
+ DiederikKruijssen           HVir        3680.94               15.0      5.77        True       True 2015-05-14 17:56:59.604316 
