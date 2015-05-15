@@ -2,10 +2,6 @@
 |             char|          char|        double|            double|   double|       char|      char|                      char|
 |                 |              | solMass / pc2|            km / s|       pc|           |          |                          |
 |             null|          null|          null|              null|     null|       null|      null|                      null|
-|            Names|           IDs|SurfaceDensity|VelocityDispersion|   Radius|IsSimulated|IsGalactic|                 Timestamp|
-|             char|          char|        double|            double|   double|       char|      char|                      char|
-|                 |              | solMass / pc2|            km / s|       pc|           |          |                          |
-|             null|          null|          null|              null|     null|       null|      null|                      null|
      SteveLongmore          Brick         4504.0               15.1       2.9       False       True 2015-05-14 17:46:20.647402 
      SteveLongmore        Cloud_d         2362.0               16.3       3.2       False       True 2015-05-14 17:46:20.647402 
      SteveLongmore        Cloud_e         6189.0               15.5       2.4       False       True 2015-05-14 17:46:20.647402 
